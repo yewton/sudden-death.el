@@ -7,10 +7,7 @@
 
 ## Installation
 
-See [Marmalade: Spreadable Elisp](http://marmalade-repo.org/ "Marmalade: Spreadable Elisp") to add Marmalade to your package archives.
-Then execute:
-
-    M-x package-install sudden-death
+    M-x auto-install-from-url https://raw.github.com/yewton/sudden-death.el/master/sudden-death.el
 
 ## Usage
 Activate region and then execute:
