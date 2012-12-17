@@ -3,7 +3,7 @@
     ＿人人人人人人＿  
     ＞　突然の死　＜  
     ￣ＹＹＹＹＹＹ￣
-    ch. https://github.com/aquarla/sudden_death
+    cf. https://github.com/aquarla/sudden_death
 
 ## Installation
 
