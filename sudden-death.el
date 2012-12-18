@@ -4,7 +4,7 @@
 
 ;; Author: yewton
 ;; URL: https://github.com/yewton/sudden-death.el
-;; Version: 0.1
+;; Version: 0.2
 
 ;;; Commentary:
 
