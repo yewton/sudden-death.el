@@ -31,7 +31,7 @@
     (let ((lines (split-string (buffer-substring-no-properties (region-beginning) (region-end)) "\n"))
           (max-width 0)
           top middle bottom result)
-      (map nil
+      (mapc
            #'(lambda (x)
                (setq max-width (max max-width (string-width x)))) lines)
       (setq top (make-string (/ max-width 2) ?人))
