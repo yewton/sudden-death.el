@@ -30,6 +30,7 @@
 (defconst sudden-death-fence-ne (decode-char 'ucs #xFF3F))
 (defconst sudden-death-fence-space (decode-char 'ucs #x3000))
 
+;;;###autoload
 (defun sudden-death ()
   "Enclose the active region with a fancy fence."
   (interactive)
