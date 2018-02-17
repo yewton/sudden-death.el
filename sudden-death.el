@@ -4,7 +4,7 @@
 
 ;; Author: yewton
 ;; URL: https://github.com/yewton/sudden-death.el
-;; Version: 0.2
+;; Version: 0.2.1
 
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
